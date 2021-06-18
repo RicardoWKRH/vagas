@@ -1,71 +1,28 @@
----
-name: Adicionar nova vaga
-about: Siga todas as instruções do template antes de abrir a vaga. VAGAS FORA DO TEMPLATE SERÃO EXCLUÍDAS.
-title: "[Cidade] Front-end Developer na Nome da Empresa"
-
----
-
-<!-- 
-==================================================
-POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!
-
-!!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!!
-
-Não faça distinção de gênero no título da vaga.
-
-Use: "Front-End Developer" ao invés de 
-"Desenvolvedor Front-End" \o/
-
-Exemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`
-==================================================
--->
-
-<!--
-==================================================
-Caso a vaga for remoto durante a pandemia deixar a linha abaixo
-==================================================
--->
-> Vaga Remota durante a pandemia
-
-## Nossa empresa
-
-Exemplo: Aqui na Corporação ACME somos líderes em...
 
 ## Descrição da vaga
 
-Exemplo: Projeto bazinga em NodeJS, etc.
+Em busca de Front-End Developer para atuar em uma Fintech em ascensão, com possibilidade de colocar seu DNA no projeto. Possui grandes oportunidades de crescimento, podendo contribuir e inovar. 
 
 ## Local
 
-Exemplo: Remoto ou Escritório, [ESTADO], [CIDADE], [BAIRRO]
+Remoto
 
 ## Requisitos
 
 **Obrigatórios:**
-- 3 anos de experiência com Node
-- 2 anos de experiência com mongodb e express
+- 3 anos de experiência com Quasar, Vue.js
+- 3 anos de experiência com Node.js, Javascript e React
 
 **Desejáveis:**
-- conhecimentos em ruby on rails
-- conhecimentos em C#
-
-**Diferenciais:**
-- projetos opensource
+- conhecimentos sobre fintech
 
 ## Benefícios
 
-- Plano de saúde
-- Seguro de vida
-- VR de R$ X/dia
-- Auxílio creche
-- ...
+- Participação dos Lucros
 
 **Diferenciais:**
-- 2 horas de almoço
-- monte a sua máquina como desejar
-- frigobar sempre cheio :P
-- sala de jogos
-- ...
+- Horário Flexível
+- Home Office 100% mesmo após pandemia
 
 ## Contratação
 
@@ -73,30 +30,24 @@ PJ a combinar
 
 ## Como se candidatar
 
-Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga NodeJS
+Por favor envie um email para ricardo.demo@wkrh.com.br com seu CV anexado - enviar no assunto: Vaga Front-End
 
 ## Tempo médio de feedbacks
 
-Costumamos enviar feedbacks em até XX dias após cada processo.
-E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.com.br
+Costumamos enviar feedbacks em até 2 a 3 dias após cada processo.
+E-mail para contato em caso de não haver resposta: ricardo.demo@wkrh.com.br
 
 ## Labels
-<!-- retire os labels que não fazem sentido à vaga -->
 
 #### Alocação
-- Alocado
 - Remoto
 
 #### Regime
-- CLT
-- Estágio
-- Freela
 - PJ
 
 #### Nível
-- Júnior
 - Pleno
 - Sênior
-- Especialista
+
 
 
